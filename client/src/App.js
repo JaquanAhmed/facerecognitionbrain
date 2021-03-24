@@ -41,7 +41,7 @@ class App extends Component {
       //coordinates of box around faces
       box: {},
       route: 'signin',
-      isSignedIn: true,
+      isSignedIn: false,
       //user profile
       user: {
         id: '',
